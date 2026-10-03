@@ -18,7 +18,7 @@
 ---
 <img align="right" alt="GIF" width="420px" src="https://c.tenor.com/iPYg2D5crywAAAAC/tenor.gif">
 
-- I’m currently working on **[Brandefense](https://brandefense.io/)**.
+
 <!--
 **aleyhdar/aleyhdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
