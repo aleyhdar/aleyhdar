@@ -6,8 +6,6 @@
 
 **Security research · threat intelligence systems · applied AI**
 
-I work on the engineering side of security research: investigation workflows, intelligence systems, enrichment and evidence pipelines, and practical AI-assisted tooling.
-
 My current focus is building research systems that are **repeatable, inspectable, and useful in practice**.
 
 ### Focus
