@@ -1,22 +1,32 @@
-<p align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="archlinux"/> </a>
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/> </a>
-  <img src="https://img.shields.io/badge/C-%2357A143.svg?&style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-  <img src="https://img.shields.io/badge/Python-%2357A143.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
-  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="rust"/> </a>
-  <img src="https://img.shields.io/badge/Elastic-%2357A143.svg?&style=for-the-badge&logo=elastic&logoColor=white" alt="elastic"/> </a>
-  <img src="https://img.shields.io/badge/Xen-%2357A143.svg?&style=for-the-badge&logo=xen&logoColor=white" alt="xen"/> </a>
-  <img src="https://img.shields.io/badge/Qemu-%2357A143.svg?&style=for-the-badge&logo=qemu&logoColor=white" alt="qemu"/> </a>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
-
-
   
 </p>
 
-### Hi there 👋
+<img align="right" alt="GIF" width="420px" src="https://c.tenor.com/iPYg2D5crywAAAAC/tenor.gif">
+
+
+**Security research · threat intelligence systems · applied AI**
+
+I work on the engineering side of security research: investigation workflows, intelligence systems, enrichment and evidence pipelines, and practical AI-assisted tooling.
+
+My current focus is building research systems that are **repeatable, inspectable, and useful in practice**.
+
+### Focus
+
+- Threat intelligence and infrastructure research
+- Security research engineering
+- Agentic security workflows
+- OpenCTI, enrichment, pivots, and evidence pipelines
+- Applied AI for research and analysis
+
+### Working with
+
+`Threat Intelligence` · `Security Research Engineering` · `Applied AI` · `Agentic Security` · `OpenCTI` · `Infrastructure Analysis` · `IOC & Malware Enrichment` · `RAG` · `Python` · `Go` · `Rust` · `Docker` · `Kubernetes`
 
 ---
-<img align="right" alt="GIF" width="420px" src="https://c.tenor.com/iPYg2D5crywAAAAC/tenor.gif">
+<!--
+<sub>Research notes, experiments, and public work are being organized into a dedicated research archive.</sub>
+---
+
 
 
 <!--
